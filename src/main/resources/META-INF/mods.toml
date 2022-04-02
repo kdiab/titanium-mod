@@ -5,8 +5,7 @@ license="MIT"
 modId="titanium"
 version="1.0.0"
 displayName="Titanium"
-logoFile="titanium.png" #optional
-credits="Thanks for this example mod goes to Java" #optional
+# logoFile="titanium.png" #optional
 description='''
 Adds titanium as a new ore to the game.
 '''
